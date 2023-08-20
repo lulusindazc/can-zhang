@@ -181,7 +181,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
  
 Teaching Assistant
 ------
-[//]: # (2018/2019 Semester 1:  Scientific Quality and Research Methods, PKU )
+2018/2019 Semester 1:  Scientific Quality and Research Methods, PKU
 2020/2021 Semester 2:  CS5477 3D Computer Vision, NUS \
 2021/2022 Semester 1:  CS5340 Uncertainty Modelling in AI, NUS
 
