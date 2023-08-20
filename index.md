@@ -45,7 +45,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/podia_3d.gif" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/Get_teaser.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="======">GeT: Generative Target Structure Debiasing for Domain Adaptation</a></div>
@@ -66,7 +66,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/ditto_nerf.gif" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/Miss_teaser.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="ditto_nerf" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2111.15068.pdf">Miss: Multi-interest self-supervised learning framework for click-through rate prediction</a></div>
@@ -86,7 +86,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/datid_3d.gif" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/Cauda_teaser.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="datid_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2205.13579.pdf">CA-UDA: Class-Aware Unsupervised Domain Adaptation with Optimal Assignment and Pseudo-Label Refinement</a></div>
@@ -108,7 +108,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/self_evolving.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/Mspac_teaser.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="mt_vit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2012.06843.pdf">Multi-Scale Cascading Network with Compact Feature Learning for RGB-Infrared Person Re-Identification</a></div>
@@ -126,7 +126,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/diffusionclip.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/ICPR.jpeg" class="teaser img-fluid z-depth-1">
   </div>
   <div id="diffusionclip" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9412119">Mobile Phone Surface Defect Detection Based on Improved Faster R-CNN</a></div>
@@ -143,7 +143,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/festa.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/MBCN.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401218">Multi-Branch Convolutional Network for Context-Aware Recommendation</a></div>
@@ -170,14 +170,6 @@ My research interests lie broadly in the field of computer vision (CV), machine 
   **Can Zhang**, Wen Yang
   <br>
   National Copyright Administration of the People's Republic of China, No. 01871413, 2017
-<!---
-- **Method of classifying lesion of chest x-ray radiograph based on data normalization and local patch and apparatus thereof**
-  <br>
-  J. C. Ye, S. Park, Y. Oh, **Gwanghyun Kim**
-  <br>
-  U.S. Patent Application, No. 17/352,229, 2022
-
--->
 
 ## Awards and Honors
 

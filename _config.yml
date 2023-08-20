@@ -1,16 +1,16 @@
-title: Gwanghyun (Bradley) Kim
+title: Can Zhang
 position: Ph.D. Student
-affiliation: ICL, ECE, SNU
-email: gwang.kim (at) snu.ac.kr
-keywords: Computer Vision (CV), Machine Learning (ML), Signal Processing (SP), Medical Imaging (MI)
-google_scholar: https://scholar.google.co.kr/citations?user=SCLtNC4AAAAJ
-github_link: https://github.com/gwang-kim/
-cv_link: https://drive.google.com/file/d/13Um-es_1eork88GVa3JvtxG7UMcWN8MV/view?usp=sharing
-linkedin: https://www.linkedin.com/in/gwanghyun-bradley-kim
-avatar: ./assets/img/ghk.png
+affiliation: SOC, NUS
+email: can.zhang (at) u.nus.edu
+keywords: Computer Vision (CV), Machine Learning (ML)
+google_scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&tzom=-480&user=L5FqsN4AAAAJ
+github_link: https://github.com/lulusindazc
+#cv_link: https://drive.google.com/file/d/13Um-es_1eork88GVa3JvtxG7UMcWN8MV/view?usp=sharing
+linkedin: https://www.linkedin.com/in/can-zhang-985889264/
+avatar: ./assets/img/zc.jpg
 google_analytics: UA-111540567-4
 favicon: ./assets/img/happy_favicon.png
 favicon_dark: ./assets/img/happy_favicon.png
-description: Bradley's blog
-canonical: https://gwang-kim.github.io/
-remote_theme: gwang-kim/gwang-kim.github.io
+description: Can's blog
+canonical: https://lulusindazc.github.io/can-zhang/
+remote_theme: lulusindazc/can-zhang
