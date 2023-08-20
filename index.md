@@ -50,7 +50,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="======">GeT: Generative Target Structure Debiasing for Domain Adaptation</a></div>
       <div class="author"><strong>Can Zhang</strong>, Gim Hee Lee</div>
-      <div class="periodical"><em><strong>ICCV 2023</strong></em>
+      <div class="periodical"><em><strong>ICCV, 2023</strong></em>
       </div>
     <div class="links">
       <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -91,7 +91,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
   <div id="datid_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2205.13579.pdf">CA-UDA: Class-Aware Unsupervised Domain Adaptation with Optimal Assignment and Pseudo-Label Refinement</a></div>
       <div class="author"><strong>Can Zhang</strong>, Gim Hee Lee </div>
-      <div class="periodical"><em><strong>Arxiv 2022</strong></em>
+      <div class="periodical"><em><strong>arXiv, 2022</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2205.13579.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -131,7 +131,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
   <div id="diffusionclip" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9412119">Mobile Phone Surface Defect Detection Based on Improved Faster R-CNN</a></div>
       <div class="author">Tao Wang, <strong>Can Zhang</strong>, Runwei Ding, Ge Yang </div>
-      <div class="periodical"><em><strong>ICPR 2020</strong></em>
+      <div class="periodical"><em><strong>ICPR, 2020</strong></em>
       </div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/abstract/document/9412119" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -148,7 +148,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
   <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401218">Multi-Branch Convolutional Network for Context-Aware Recommendation</a></div>
       <div class="author">Wei Guo*, <strong>Can Zhang*</strong>, Huifeng Guo, Ruiming Tang, Xiuqiang He <strong>(*co-first)</strong> </div>
-      <div class="periodical"><em><strong>SIGIR 2020 </strong></em>
+      <div class="periodical"><em><strong>SIGIR, 2020 </strong></em>
       </div>
     <div class="links">
       <a href="https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -162,7 +162,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 </ol>
 </div>
 
-
+<!---
 ## Patents
 
 - **Computer Software Copyright Registration Certificate on Safety Belt Recognition**
@@ -170,6 +170,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
   **Can Zhang**, Wen Yang
   <br>
   National Copyright Administration of the People's Republic of China, No. 01871413, 2017
+-->
 
 ## Awards and Honors
 
