@@ -1,6 +1,6 @@
 # Can Zhang's Website
 
-Welcome to my [website](https://gwang-kim.github.io/)!
+Welcome to my [website](https://lulusindazc.github.io/can-zhang/)!
 
 ## License
 
