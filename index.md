@@ -64,6 +64,25 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/DG-UCDIR_teaser.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="======">Unsupervised Feature Representation Learning for Domain-generalized Cross-domain Image Retrieval</a></div>
+      <div class="author"><strong>Conghui Hu</strong>, Can Zhang, Gim Hee Lee</div>
+      <div class="periodical"><em><strong>ICCV, 2023</strong></em>
+      </div>
+    <div class="links">
+      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://lulusindazc.github.io/getproject/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 
 <li>
