@@ -72,7 +72,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="======">Unsupervised Feature Representation Learning for Domain-generalized Cross-domain Image Retrieval</a></div>
-      <div class="author"><strong>Conghui Hu</strong>, Can Zhang, Gim Hee Lee</div>
+      <div class="author">Conghui Hu, <strong>Can Zhang</strong>, Gim Hee Lee</div>
       <div class="periodical"><em><strong>ICCV, 2023</strong></em>
       </div>
     <div class="links">
