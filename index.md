@@ -33,6 +33,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 ## <b style="color:#F88017">News</b>
 
 - **[Jul. 2023]** [Get](https://lulusindazc.github.io/getproject/) on domain adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
+- **[Jul. 2023]** [DG-UCDIR](https://github.com/conghui1002/DG-UCDIR) on cross-domain image retrieval is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Mar. 2022]** [Miss](https://arxiv.org/pdf/2111.15068.pdf) on CTR prediction is accepted to [ICDE 2022](https://icde2022.ieeecomputer.my/).
 - **[May. 2022]** [CA-UDA](https://arxiv.org/pdf/2205.13579.pdf) on domain adaptation is available on arXiv.
 - **[Oct. 2020]** [MPSD](https://ieeexplore.ieee.org/abstract/document/9412119) on surface defection is accepted to [ICPR 2020](https://www.micc.unifi.it/icpr2020/).
