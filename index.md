@@ -149,7 +149,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/ICPR.jpeg" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/ICPR.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="diffusionclip" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9412119">Mobile Phone Surface Defect Detection Based on Improved Faster R-CNN</a></div>
