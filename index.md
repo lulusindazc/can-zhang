@@ -3,8 +3,11 @@ layout: homepage
 ---
 
 ## Welcome!
-I am currently a Ph.D. Candidate at the Department of Computer Science, National University of Singapore (NUS), advised by Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
+I am currently a Ph.D. Candidate at the Department of Computer Science, National University of Singapore (NUS).
+<!---
+, advised by Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 I obtained my B.S. degree in Electronic Information School from Wuhan University. 
+-->
 
 <!---
 ## Experience
