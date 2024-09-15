@@ -26,8 +26,6 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 - **Domain adaptation**
 - **Semi-, Un- and Self-supervised learning**
 - **Multi/Cross-modal learning**
-<!-- - **Continual learning**
-- **Recommender system** -->
 - but not limited to.
 
 ## <b style="color:#F88017">News</b>
