@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Welcome!
-I am currently a Ph.D. Candidate at the Department of Computer Science, National University of Singapore (NUS).
+I am currently a Ph.D. Candidate at the Department of Computer Science at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), under the supervision of Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 <!---
 , advised by Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 I obtained my B.S. degree in Electronic Information School from Wuhan University. 
@@ -22,12 +22,12 @@ I obtained my B.S. degree in Electronic Information School from Wuhan University
 
 ## Research Interests
 My research interests lie broadly in the field of computer vision (CV), machine learning (ML). Specifically, my work explores the following areas:
+- **3D scene understanding**
 - **Domain adaptation**
 - **Semi-, Un- and Self-supervised learning**
-- **3D reconstruction** 
 - **Multi/Cross-modal learning**
-- **Continual learning**
-- **Recommender system**
+<!-- - **Continual learning**
+- **Recommender system** -->
 - but not limited to.
 
 ## <b style="color:#F88017">News</b>
@@ -149,7 +149,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/ICPR.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/MPSD.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="diffusionclip" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/9412119">Mobile Phone Surface Defect Detection Based on Improved Faster R-CNN</a></div>
@@ -226,13 +226,13 @@ DiffusionCLIP and DATID-3D**
 - **Deep Learning based Diagnosis of Infectious Diseases on CXR and Audio data**
   <br>
   NVIDIA AI Developer Meetup, NVIDIA (Remote), 2020
-
+-->
 
 
 ## Services
-- **Conference reviewers:** CVPR 2023, ICCV 2023, NeurIPS 2023
-- **Journal Reviewers:** T-PAMI, ACM Comput Surv
--->
+- **Conference reviewers:** CVPR 2024, ICME 2024, NeurIPS 2024, ICLR 2025
+<!-- - **Journal Reviewers:** T-PAMI, ACM Comput Surv -->
+
 
 [//]: # (## Projects)
 
