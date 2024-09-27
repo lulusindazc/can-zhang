@@ -228,7 +228,7 @@ DiffusionCLIP and DATID-3D**
 
 
 ## Services
-- **Conference reviewers:** CVPR 2024, ICME 2024, NeurIPS 2024, ICLR 2025
+- **Conference reviewers:** CVPR, ICME, NeurIPS, ICLR
 <!-- - **Journal Reviewers:** T-PAMI, ACM Comput Surv -->
 
 
