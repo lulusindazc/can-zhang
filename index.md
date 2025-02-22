@@ -230,7 +230,7 @@ DiffusionCLIP and DATID-3D**
 
 
 ## Services
-- **Conference reviewers:** CVPR, ICME, NeurIPS, ICLR
+- **Conference reviewers:** CVPR, ICME, NeurIPS, ICLR, ICML, ICCV
 <!-- - **Journal Reviewers:** T-PAMI, ACM Comput Surv -->
 
 
