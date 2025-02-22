@@ -3,8 +3,9 @@ layout: homepage
 ---
 
 ## Welcome!
-I am currently a Ph.D. Candidate at the Department of Computer Science at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), under the supervision of Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
+I am currently a research fellow at [National University of Singapore (NUS)](https://www.nus.edu.sg/), working closely with Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). I did my PhD at the Department of Computer Science at NUS, under the supervision of Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 <!---
+I am currently a Ph.D. Candidate at the Department of Computer Science at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), under the supervision of Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 , advised by Prof. [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). 
 I obtained my B.S. degree in Electronic Information School from Wuhan University. 
 -->
@@ -30,6 +31,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 
 ## <b style="color:#F88017">News</b>
 
+- **[Jan. 2025]** [econSG](https://lulusindazc.github.io/econSGproject/) on 3d scene understanding is accepted to [ICLR 2025](https://iclr.cc/Conferences/2025).
 - **[Jul. 2023]** [Get](https://lulusindazc.github.io/getproject/) on domain adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Jul. 2023]** [DG-UCDIR](https://github.com/conghui1002/DG-UCDIR) on cross-domain image retrieval is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Mar. 2022]** [Miss](https://arxiv.org/pdf/2111.15068.pdf) on CTR prediction is accepted to [ICDE 2022](https://icde2022.ieeecomputer.my/).
