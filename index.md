@@ -31,6 +31,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 
 ## <b style="color:#F88017">News</b>
 
+- **[Feb. 2025]** [IAAO](https://lulusindazc.github.io/IAAOproject/) on object articulation in 3D environments is accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).
 - **[Jan. 2025]** [econSG](https://lulusindazc.github.io/econSGproject/) on 3d scene understanding is accepted to [ICLR 2025](https://iclr.cc/Conferences/2025).
 - **[Jul. 2023]** [Get](https://lulusindazc.github.io/getproject/) on domain adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Jul. 2023]** [DG-UCDIR](https://github.com/conghui1002/DG-UCDIR) on cross-domain image retrieval is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
@@ -45,6 +46,45 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/IAAO_teaser.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="======">IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments</a></div>
+      <div class="author"><strong>Can Zhang</strong>, Gim Hee Lee</div>
+      <div class="periodical"><em><strong>CVPR, 2025</strong></em>
+      </div>
+    <div class="links">
+      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://lulusindazc.github.io/IAAOproject/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/econSGframe.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="======">econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians</a></div>
+      <div class="author"><strong>Can Zhang</strong>, Gim Hee Lee</div>
+      <div class="periodical"><em><strong>ICLR, 2025</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://openreview.net/forum?id=qSEEQPNbu4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://lulusindazc.github.io/econSGproject/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <!-- <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
@@ -57,9 +97,9 @@ My research interests lie broadly in the field of computer vision (CV), machine 
       <div class="periodical"><em><strong>ICCV, 2023</strong></em>
       </div>
     <div class="links">
-      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_GeT_Generative_Target_Structure_Debiasing_for_Domain_Adaptation_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://lulusindazc.github.io/getproject/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
-      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
     </div>
   </div>
 </div>
@@ -78,7 +118,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
     <div class="links">
       <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://lulusindazc.github.io/getproject/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
-      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
     </div>
   </div>
 </div>
@@ -118,9 +158,9 @@ My research interests lie broadly in the field of computer vision (CV), machine 
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2205.13579.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href=" " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
-      <a href=" " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href=" " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
+      <!-- <a href=" " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a> -->
+      <a href="https://github.com/lulusindazc/CAUDA" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href=" " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a> -->
     </div>
   </div>
 </div>
@@ -197,6 +237,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 
 ## Awards and Honors
 
+- Research Achievement Award, NUS, 2023
 - National Scholarship, 2017
 - National Scholarship, 2016
 - National Scholarship, 2015
@@ -230,7 +271,7 @@ DiffusionCLIP and DATID-3D**
 
 
 ## Services
-- **Conference reviewers:** CVPR, ICME, NeurIPS, ICLR, ICML, ICCV
+- **Conference reviewers:** CVPR, NeurIPS, ICLR, ICML, ICCV
 <!-- - **Journal Reviewers:** T-PAMI, ACM Comput Surv -->
 
 
