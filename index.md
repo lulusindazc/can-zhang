@@ -52,14 +52,14 @@ My research interests lie broadly in the field of computer vision (CV), machine 
     <img src="./assets/research/IAAO_teaser.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="======">IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments</a></div>
+      <div class="title"><a href="https://lulusindazc.github.io/IAAOproject/">IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments</a></div>
       <div class="author"><strong>Can Zhang</strong>, Gim Hee Lee</div>
       <div class="periodical"><em><strong>CVPR, 2025</strong></em>
       </div>
     <div class="links">
-      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_IAAO_Interactive_Affordance_Learning_for_Articulated_Objects_in_3D_Environments_CVPR_2025_paper.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://lulusindazc.github.io/IAAOproject/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
-      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="https://github.com/lulusindazc/IAAO" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
     </div>
   </div>
 </div>
@@ -72,7 +72,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
     <img src="./assets/research/econSGframe.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="======">econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians</a></div>
+      <div class="title"><a href="https://lulusindazc.github.io/econSGproject/">econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians</a></div>
       <div class="author"><strong>Can Zhang</strong>, Gim Hee Lee</div>
       <div class="periodical"><em><strong>ICLR, 2025</strong></em>
       </div>
@@ -92,7 +92,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
     <img src="./assets/research/Get_teaser.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="======">GeT: Generative Target Structure Debiasing for Domain Adaptation</a></div>
+      <div class="title"><a href="https://lulusindazc.github.io/getproject/">GeT: Generative Target Structure Debiasing for Domain Adaptation</a></div>
       <div class="author"><strong>Can Zhang</strong>, Gim Hee Lee</div>
       <div class="periodical"><em><strong>ICCV, 2023</strong></em>
       </div>
@@ -111,14 +111,14 @@ My research interests lie broadly in the field of computer vision (CV), machine 
     <img src="./assets/research/DG-UCDIR_teaser.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="======">Unsupervised Feature Representation Learning for Domain-generalized Cross-domain Image Retrieval</a></div>
+      <div class="title"><a href="https://github.com/conghui1002/DG-UCDIR">Unsupervised Feature Representation Learning for Domain-generalized Cross-domain Image Retrieval</a></div>
       <div class="author">Conghui Hu, <strong>Can Zhang</strong>, Gim Hee Lee</div>
       <div class="periodical"><em><strong>ICCV, 2023</strong></em>
       </div>
     <div class="links">
-      <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://lulusindazc.github.io/getproject/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
-      <!-- <a href="======" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Hu_Unsupervised_Feature_Representation_Learning_for_Domain-generalized_Cross-domain_Image_Retrieval_ICCV_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://lulusindazc.github.io/getproject/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a> -->
+      <a href="https://github.com/conghui1002/DG-UCDIR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -138,8 +138,8 @@ My research interests lie broadly in the field of computer vision (CV), machine 
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2111.15068.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
-      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
     </div>
   </div>
 </div>
@@ -214,7 +214,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
       <div class="periodical"><em><strong>SIGIR, 2020 </strong></em>
       </div>
     <div class="links">
-      <a href="https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401218" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
