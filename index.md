@@ -30,7 +30,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 - but not limited to.
 
 ## <b style="color:#F88017">News</b>
-
+- **[Feb. 2026]** [SCAPO] on category-level articulated pose estimation is accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 - **[Feb. 2025]** [IAAO](https://lulusindazc.github.io/IAAOproject/) on object articulation in 3D environments is accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).
 - **[Jan. 2025]** [econSG](https://lulusindazc.github.io/econSGproject/) on 3d scene understanding is accepted to [ICLR 2025](https://iclr.cc/Conferences/2025).
 - **[Jul. 2023]** [Get](https://lulusindazc.github.io/getproject/) on domain adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
@@ -241,7 +241,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 - National Scholarship, 2017
 - National Scholarship, 2016
 - National Scholarship, 2015
-- Outstanding Freshmen Scholarship, WHU, 2014
+- Outstanding Freshmen Scholarship, Wuhan University, 2014
  
 Teaching Assistant
 ------
