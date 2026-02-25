@@ -30,7 +30,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 - but not limited to.
 
 ## <b style="color:#F88017">News</b>
-- **[Feb. 2026]** [SCAPO] on category-level articulated pose estimation is accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
+- **[Feb. 2026]** [SCAPO](https://lulusindazc.github.io/SCAPOproject/) on category-level articulated pose estimation is accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).
 - **[Feb. 2025]** [IAAO](https://lulusindazc.github.io/IAAOproject/) on object articulation in 3D environments is accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).
 - **[Jan. 2025]** [econSG](https://lulusindazc.github.io/econSGproject/) on 3d scene understanding is accepted to [ICLR 2025](https://iclr.cc/Conferences/2025).
 - **[Jul. 2023]** [Get](https://lulusindazc.github.io/getproject/) on domain adaptation is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
@@ -45,6 +45,24 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 
 <div class="publications">
 <ol class="bibliography">
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/SCAPO_teaser.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://lulusindazc.github.io/SCAPOproject/">SCAPO: Self-Supervised Category-Level Articulated Pose Estimation from a Single 3D Observation</a></div>
+      <div class="author"><strong>Can Zhang</strong>, Gim Hee Lee</div>
+      <div class="periodical"><em><strong>CVPR, 2026</strong></em>
+      </div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://lulusindazc.github.io/SCAPOproject/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
