@@ -289,7 +289,7 @@ DiffusionCLIP and DATID-3D**
 
 
 ## Services
-- **Conference reviewers:** CVPR, NeurIPS, ICLR, ICML, ICCV
+- **Conference Reviewers:** CVPR, NeurIPS, ICLR, ICML, ICCV
 - **Journal Reviewers:** T-PAMI
 
 
